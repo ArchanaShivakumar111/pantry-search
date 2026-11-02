@@ -1,6 +1,7 @@
 import pool from '@/lib/db';
 import { requireRole, forbidden } from '@/lib/auth';
 import { dbError } from '@/lib/dbError';
+import { embed, toVector } from '@/lib/embed.mjs';
 
 export async function GET(req) {
   const user = await requireRole();
@@ -34,11 +35,27 @@ export async function POST(req) {
   const user = await requireRole('donor');
   if (!user) return forbidden();
   const { title, category_id, quantity, expiry_date, pickup_location } = await req.json();
+  const cat = await pool.query('SELECT category_name FROM category WHERE category_id = $1', [category_id || null]);
+  if (!cat.rows.length) return Response.json({ error: 'Choose a category' }, { status: 400 });
+  const text = `${title} (${cat.rows[0].category_name})`;
+  const vector = toVector(await embed(text));       // compute BEFORE opening the transaction
+
+  const client = await pool.connect();
   try {
-    const { rows } = await pool.query(
+    await client.query('BEGIN');
+    const { rows } = await client.query(
       `INSERT INTO food_listing (donor_id, category_id, title, quantity, expiry_date, pickup_location)
        VALUES ($1, $2, $3, $4, $5, $6) RETURNING *`,
       [user.user_id, category_id, title, quantity, expiry_date, pickup_location]);
+    await client.query(
+      'INSERT INTO vec.listing_embeddings (listing_id, embedded_text, embedding) VALUES ($1, $2, $3::vector)',
+      [rows[0].listing_id, text, vector]);
+    await client.query('COMMIT');
     return Response.json(rows[0]);
-  } catch (e) { return dbError(e); }
+  } catch (e) {
+    await client.query('ROLLBACK');
+    return dbError(e);
+  } finally {
+    client.release();
+  }
 }
