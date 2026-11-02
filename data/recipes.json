@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Tomato Rice",
+    "ingredients": ["rice", "tomato", "onion", "mustard seeds", "curry leaves"],
+    "steps": "Cook the rice. Fry mustard seeds, curry leaves and onion. Add chopped tomato and cook till soft. Mix in the rice."
+  },
+  {
+    "title": "Lemon Rice",
+    "ingredients": ["rice", "lemon", "mustard seeds", "peanuts", "curry leaves", "turmeric"],
+    "steps": "Fry mustard seeds, peanuts and curry leaves in oil. Add turmeric and cooked rice, mix well. Squeeze in lemon juice before serving."
+  },
+  {
+    "title": "Curd Rice",
+    "ingredients": ["rice", "curd", "milk", "mustard seeds", "curry leaves", "green chilli"],
+    "steps": "Mash cooked rice with milk and curd until smooth. Temper mustard seeds, curry leaves and green chilli in oil and pour over. Chill before serving."
+  },
+  {
+    "title": "Vegetable Pulao",
+    "ingredients": ["rice", "carrot", "peas", "onion", "whole spices"],
+    "steps": "Fry onion and whole spices in oil till fragrant. Add chopped vegetables and rice, stir for two minutes. Add water and cook until the rice is done."
+  },
+  {
+    "title": "Egg Fried Rice",
+    "ingredients": ["rice", "eggs", "onion", "carrot", "soy sauce"],
+    "steps": "Scramble the eggs and set aside. Fry onion and carrot, add cold rice and soy sauce. Mix in the scrambled eggs and stir-fry for two more minutes."
+  },
+  {
+    "title": "Rice Uttapam",
+    "ingredients": ["leftover rice", "curd", "onion", "green chilli", "rice flour"],
+    "steps": "Blend leftover rice with curd and a little water into a thick batter. Pour onto a hot greased pan, sprinkle chopped onion and chilli, and cook both sides until golden."
+  },
+  {
+    "title": "Coconut Rice",
+    "ingredients": ["rice", "coconut", "mustard seeds", "curry leaves", "cashews"],
+    "steps": "Dry roast grated coconut lightly. Temper mustard seeds, curry leaves and cashews in oil, add the coconut and cooked rice. Mix well and serve warm."
+  },
+  {
+    "title": "Tamarind Rice",
+    "ingredients": ["rice", "tamarind", "peanuts", "mustard seeds", "curry leaves", "sesame seeds"],
+    "steps": "Make a thick tamarind paste by soaking and squeezing tamarind in water. Temper mustard seeds, peanuts and curry leaves, add the tamarind paste and cook till thick. Mix with cooked rice."
+  },
+  {
+    "title": "Mixed Vegetable Fried Rice",
+    "ingredients": ["rice", "cabbage", "carrot", "beans", "spring onion"],
+    "steps": "Chop all vegetables finely. Stir-fry them on high heat for two minutes, then add cold cooked rice. Toss everything together until heated through."
+  },
+  {
+    "title": "Rice Kheer",
+    "ingredients": ["leftover rice", "milk", "sugar", "cardamom", "nuts"],
+    "steps": "Simmer leftover rice in milk, stirring often, until soft and creamy. Add sugar and cardamom powder, cook a few more minutes. Garnish with chopped nuts before serving."
+  },
+  {
+    "title": "Chapati Roll",
+    "ingredients": ["chapati", "potato", "onion", "tomato ketchup"],
+    "steps": "Mash boiled potato with chopped onion and spices to make a filling. Spread it on a chapati with ketchup and roll it up tightly. Lightly toast the roll on a pan."
+  },
+  {
+    "title": "Chapati Chips",
+    "ingredients": ["chapati", "oil", "chilli powder", "salt"],
+    "steps": "Cut leftover chapatis into triangles. Fry or bake until crisp. Sprinkle with chilli powder and salt while still hot."
+  },
+  {
+    "title": "Chapati Upma",
+    "ingredients": ["chapati", "onion", "mustard seeds", "curry leaves", "peas"],
+    "steps": "Tear the chapatis into small pieces. Temper mustard seeds, curry leaves and onion, add peas and the torn chapati. Toss gently until everything is heated and coated in the tempering."
+  },
+  {
+    "title": "Chapati Ladoo",
+    "ingredients": ["chapati", "jaggery", "ghee", "nuts"],
+    "steps": "Crumble leftover chapatis into fine crumbs. Melt jaggery with ghee and mix in the crumbs and chopped nuts. Shape into small balls while warm."
+  },
+  {
+    "title": "Bread Upma",
+    "ingredients": ["bread", "onion", "mustard seeds", "curry leaves", "tomato"],
+    "steps": "Cube the bread slices. Temper mustard seeds, curry leaves, onion and tomato, then add the bread cubes. Toss gently so the bread soaks up the flavour without turning mushy."
+  },
+  {
+    "title": "Bread Pakora",
+    "ingredients": ["bread", "gram flour", "onion", "green chilli", "chilli powder"],
+    "steps": "Make a thick batter with gram flour, chilli powder and water. Dip bread slices in the batter and deep fry until golden and crisp. Serve hot with chutney."
+  },
+  {
+    "title": "Bread Omelette",
+    "ingredients": ["bread", "eggs", "onion", "green chilli", "pepper"],
+    "steps": "Beat eggs with chopped onion, chilli and pepper. Pour onto a hot pan, place a bread slice on top and press lightly. Flip once and cook both sides until set."
+  },
+  {
+    "title": "Bread Pudding",
+    "ingredients": ["bread", "milk", "sugar", "eggs", "cardamom"],
+    "steps": "Soak bread pieces in a mixture of milk, beaten eggs and sugar. Add a pinch of cardamom powder and bake or steam until set. Cool slightly before serving."
+  },
+  {
+    "title": "French Toast",
+    "ingredients": ["bread", "eggs", "milk", "sugar"],
+    "steps": "Whisk eggs with milk and sugar. Dip bread slices in the mixture and pan-fry on both sides until golden brown. Serve warm."
+  },
+  {
+    "title": "Bread Cutlet",
+    "ingredients": ["bread", "potato", "peas", "bread crumbs"],
+    "steps": "Mash boiled potato and peas with spices, shape into flat patties. Dip in a bread-and-water paste, coat with crumbs, and shallow fry until crisp on both sides."
+  },
+  {
+    "title": "Dal Khichdi",
+    "ingredients": ["rice", "toor dal", "turmeric", "ghee", "cumin"],
+    "steps": "Wash rice and dal together and pressure cook with turmeric and water until soft. Temper cumin in ghee and pour over the khichdi before serving."
+  },
+  {
+    "title": "Dal Paratha",
+    "ingredients": ["leftover dal", "wheat flour", "chilli powder", "ajwain"],
+    "steps": "Knead wheat flour with thick leftover dal, chilli powder and ajwain into a soft dough. Roll into parathas and cook on a hot pan with a little oil until golden spots appear."
+  },
+  {
+    "title": "Dal Soup",
+    "ingredients": ["toor dal", "tomato", "garlic", "cumin", "pepper"],
+    "steps": "Boil dal with tomato and garlic until completely soft. Blend smooth, then simmer with cumin and pepper. Serve hot as a light soup."
+  },
+  {
+    "title": "Dal Dosa",
+    "ingredients": ["leftover dal", "rice flour", "green chilli", "cumin"],
+    "steps": "Mix leftover dal with rice flour, chilli and cumin to make a thin batter. Spread a ladleful on a hot greased pan like a dosa. Cook both sides until crisp."
+  },
+  {
+    "title": "Masoor Dal Curry",
+    "ingredients": ["masoor dal", "onion", "tomato", "garlic", "turmeric"],
+    "steps": "Boil masoor dal with turmeric until soft. Fry onion, garlic and tomato separately, then mix into the cooked dal. Simmer for five minutes before serving."
+  },
+  {
+    "title": "Moong Dal Chilla",
+    "ingredients": ["moong dal", "ginger", "green chilli", "cumin"],
+    "steps": "Soak and grind moong dal with ginger and chilli into a smooth batter. Spread thinly on a hot greased pan like a dosa. Cook both sides until golden."
+  },
+  {
+    "title": "Cucumber Raita",
+    "ingredients": ["curd", "cucumber", "cumin powder", "salt"],
+    "steps": "Whisk curd until smooth. Add grated cucumber, roasted cumin powder and salt. Chill before serving alongside rice or paratha."
+  },
+  {
+    "title": "Lassi",
+    "ingredients": ["curd", "sugar", "milk", "cardamom"],
+    "steps": "Blend curd, milk and sugar together until frothy. Add a pinch of cardamom powder. Serve chilled."
+  },
+  {
+    "title": "Curd Sandwich",
+    "ingredients": ["bread", "curd", "cucumber", "mint", "salt"],
+    "steps": "Whisk curd with chopped mint and salt to make a spread. Layer cucumber slices between bread with the curd spread. Press lightly and serve."
+  },
+  {
+    "title": "Shrikhand",
+    "ingredients": ["curd", "sugar", "cardamom", "saffron"],
+    "steps": "Hang curd in a cloth for a few hours to drain the water. Whisk the thickened curd with sugar, cardamom and a few strands of saffron. Chill before serving."
+  },
+  {
+    "title": "Paneer Bhurji",
+    "ingredients": ["paneer", "onion", "tomato", "green chilli", "turmeric"],
+    "steps": "Crumble the paneer with your hands. Fry onion, tomato and chilli until soft, add turmeric, then mix in the crumbled paneer. Cook for two minutes and serve."
+  },
+  {
+    "title": "Paneer Paratha",
+    "ingredients": ["paneer", "wheat flour", "green chilli", "coriander"],
+    "steps": "Mash paneer with chopped chilli and coriander to make a filling. Stuff it inside a wheat flour dough ball and roll into a paratha. Cook on a hot pan with a little oil until golden."
+  },
+  {
+    "title": "Pan-Fried Paneer Tikka",
+    "ingredients": ["paneer", "curd", "chilli powder", "lemon", "capsicum"],
+    "steps": "Marinate paneer and capsicum cubes in curd, chilli powder and lemon juice for twenty minutes. Thread onto skewers or simply pan-fry until lightly charred on all sides."
+  },
+  {
+    "title": "Paneer Butter Masala",
+    "ingredients": ["paneer", "tomato", "butter", "cashews", "cream"],
+    "steps": "Cook tomato and cashews together until soft, then blend into a smooth puree. Simmer the puree with butter and cream, add paneer cubes and cook for five minutes."
+  },
+  {
+    "title": "Palak Paneer",
+    "ingredients": ["paneer", "spinach", "onion", "garlic", "cream"],
+    "steps": "Blanch spinach and blend into a smooth puree. Fry onion and garlic, add the spinach puree and simmer. Add paneer cubes and a swirl of cream before serving."
+  },
+  {
+    "title": "Vegetable Stir Fry",
+    "ingredients": ["cabbage", "carrot", "beans", "garlic", "soy sauce"],
+    "steps": "Heat oil and fry garlic until fragrant. Add all the chopped vegetables and stir-fry on high heat for five minutes so they stay crunchy. Season with soy sauce."
+  },
+  {
+    "title": "Mixed Vegetable Curry",
+    "ingredients": ["potato", "carrot", "beans", "peas", "tomato"],
+    "steps": "Fry onion and tomato into a base gravy. Add chopped mixed vegetables and a little water, then cover and cook until all the vegetables are tender."
+  },
+  {
+    "title": "Aloo Sabzi",
+    "ingredients": ["potato", "onion", "turmeric", "mustard seeds", "curry leaves"],
+    "steps": "Boil and cube the potatoes. Temper mustard seeds and curry leaves in oil, add onion and turmeric, then toss in the potato cubes until coated and lightly fried."
+  },
+  {
+    "title": "Carrot and Peas Poriyal",
+    "ingredients": ["carrot", "peas", "coconut", "mustard seeds", "curry leaves"],
+    "steps": "Temper mustard seeds and curry leaves in oil. Add chopped carrot and peas with a splash of water, cover and cook until tender. Mix in grated coconut before serving."
+  },
+  {
+    "title": "Palak Dal",
+    "ingredients": ["spinach", "toor dal", "garlic", "cumin", "turmeric"],
+    "steps": "Boil toor dal with turmeric until soft. Add chopped spinach and cook until wilted. Temper garlic and cumin in oil and pour over the dal."
+  },
+  {
+    "title": "Cabbage Thoran",
+    "ingredients": ["cabbage", "coconut", "mustard seeds", "curry leaves", "green chilli"],
+    "steps": "Temper mustard seeds, curry leaves and chilli in oil. Add finely chopped cabbage and cook on medium heat until soft. Mix in grated coconut at the end."
+  },
+  {
+    "title": "Banana Smoothie",
+    "ingredients": ["banana", "milk", "sugar", "cardamom"],
+    "steps": "Peel and chop the banana. Blend it with milk, sugar and a pinch of cardamom powder until smooth. Serve chilled."
+  },
+  {
+    "title": "Mixed Fruit Salad",
+    "ingredients": ["banana", "apple", "orange", "honey"],
+    "steps": "Chop all the fruits into bite-sized pieces. Mix them in a bowl and drizzle with honey. Chill briefly before serving."
+  },
+  {
+    "title": "Apple Chutney",
+    "ingredients": ["apple", "sugar", "lemon", "cinnamon"],
+    "steps": "Chop the apple into small pieces and cook with sugar and a splash of water until soft. Add lemon juice and a pinch of cinnamon, then mash lightly. Cool before serving."
+  },
+  {
+    "title": "Banana Pancake",
+    "ingredients": ["banana", "wheat flour", "milk", "sugar"],
+    "steps": "Mash the banana and mix with wheat flour, milk and sugar into a smooth batter. Pour spoonfuls onto a hot greased pan and cook both sides until golden."
+  },
+  {
+    "title": "Mixed Fruit Raita",
+    "ingredients": ["curd", "banana", "apple", "pomegranate", "sugar"],
+    "steps": "Whisk curd with a little sugar until smooth. Fold in chopped banana, apple and pomegranate seeds. Chill before serving."
+  },
+  {
+    "title": "Vegetable Khichdi",
+    "ingredients": ["rice", "moong dal", "carrot", "peas", "turmeric"],
+    "steps": "Wash rice and dal together. Pressure cook with chopped carrot, peas and turmeric until everything is soft and well combined. Serve hot with a drizzle of ghee."
+  },
+  {
+    "title": "Onion Tomato Chutney",
+    "ingredients": ["onion", "tomato", "garlic", "red chilli", "mustard seeds"],
+    "steps": "Fry onion, tomato, garlic and red chilli together until soft. Cool and grind into a coarse paste. Temper mustard seeds in oil and mix into the chutney."
+  },
+  {
+    "title": "Buttermilk",
+    "ingredients": ["curd", "water", "ginger", "curry leaves", "salt"],
+    "steps": "Whisk curd with water until thin and smooth. Add grated ginger, torn curry leaves and salt. Serve chilled."
+  },
+  {
+    "title": "Vegetable Soup",
+    "ingredients": ["carrot", "beans", "tomato", "garlic", "pepper"],
+    "steps": "Boil all the chopped vegetables with garlic until soft. Blend lightly or leave chunky, depending on preference. Season with pepper and simmer for a few more minutes."
+  }
+]
