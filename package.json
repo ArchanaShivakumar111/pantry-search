@@ -7,7 +7,7 @@
   "build": "next build",
   "start": "next start",
   "lint": "eslint",
-  "db:setup": "node --env-file=.env scripts/setup-db.mjs",
+  "db:setup": "node --env-file=.env scripts/setup-db.mjs && node --env-file=.env scripts/embed-listings.mjs && node --env-file=.env scripts/seed-recipes.mjs",
   "db:shell": "docker compose exec db psql -U pantry -d pantrydb"
 },
   "dependencies": {
